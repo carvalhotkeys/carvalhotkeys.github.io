@@ -14,3 +14,13 @@ section div {
 .projetos{
     padding-top: 3%;
 }
+
+.minha-imagem {
+    background-color: black;
+    display: flex;
+    padding: 5%;
+}
+
+.sobremim {
+    padding-left: 6%;
+}
