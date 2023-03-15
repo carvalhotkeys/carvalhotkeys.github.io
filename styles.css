@@ -51,6 +51,7 @@ section div {
 }
 
 footer {
+    font-size: xx-large;
     background-color: #000;
     padding-top: 100px;
     padding-bottom: 120px;
@@ -59,3 +60,4 @@ footer {
     align-items: center;
     justify-content: center;
 }
+
