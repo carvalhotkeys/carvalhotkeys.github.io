@@ -1,5 +1,4 @@
 
-
 .rodape {
     background-color: black;
     height: 10vh;
@@ -11,16 +10,32 @@ section div {
 }
 
 
-.projetos{
+.projetos {
     padding-top: 3%;
 }
 
-.minha-imagem {
-    background-color: black;
-    display: flex;
+.sobreEimagem {
+    background-color: aqua;
     padding: 5%;
+
 }
 
+.meunome {
+    padding-left: 6%;
+    color: white;
+    
+}
 .sobremim {
     padding-left: 6%;
+    background-color: black;
+    
+}
+
+.containersobreEimage {
+    display: flex;
+    background-color: black;
+}
+
+.containerIMAGEM {
+    margin-top: 2%;
 }
